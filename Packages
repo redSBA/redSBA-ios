@@ -1,29 +1,15 @@
 Package: com.example.redsbabrowser
-Version: 0.8.0
+Version: 0.9.0
 Architecture: iphoneos-arm
 Maintainer: you
 Installed-Size: 200
-Filename: ./com.example.redsbabrowser_0.8.0_iphoneos-arm.deb
-Size: 99490
-MD5sum: 2295226f8bf97c841df1dbc8e8ed684f
-SHA1: 888ebeed1353173281c46253aa07556a3ca4da9f
-SHA256: 0a537ceb00ac452c2eb63a37045aa82d9eaf67926f535c26d324b0e652f14591
+Filename: ./com.example.redsbabrowser_0.9.0_iphoneos-arm.deb
+Size: 100284
+MD5sum: c3c3db06445e38c36bb1179e590e8a76
+SHA1: f6c6876186f406fa9e05ca819342079e983320e0
+SHA256: 8c3a34708887d2ac16701d1e8022a2dfe20aedc097c96c771b2a5cf1af9cb32c
 Section: Applications
 Description: Simple browser for iOS 6 with certificate warnings
 Author: you
 Name: redSBA browser
-
-Package: dpkg-perl
-Version: 1.22.6-5
-Architecture: all
-Maintainer: @termux
-Installed-Size: 940
-Depends: perl, dpkg (= 1.22.6-5)
-Filename: ./dpkg-perl_1.22.6-5_all.deb
-Size: 126272
-MD5sum: 7e86249c10b8e9d58f20ca9686a6327e
-SHA1: 7c115bbc901252eb308ef88ecc07fa08334a8d1e
-SHA256: 8002877527ac0fcb6d3b10eef7fba9d47c65963673a95396baed4b2d4519cccf
-Homepage: https://packages.debian.org/dpkg
-Description: Perl modules for dpkg
 
