@@ -1,3 +1,50 @@
+Package: com.example.blackminimal
+Version: 0.3.5
+Architecture: iphoneos-arm
+Maintainer: redSBA team
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./com.example.blackminimal_0.3.5_iphoneos-arm.deb
+Size: 4092
+MD5sum: 016fddc80653619e21536acd1d1af53b
+SHA1: d2ed4bc7a091f543ffd8ba01f980908e060c3b79
+SHA256: bee5a1b5373804275ff9a54415d5a58f926a8cc464b5aa062f38c7a361d174ac
+Section: Tweaks
+Description: Turns light and grey backgrounds black on iOS 6 (Settings)
+Author: redSBA team & Claude Haiku 5.5
+Name: Black minimal
+
+Package: com.example.coolanimationlist
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: redSBA team
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./com.example.coolanimationlist_0.1.1_iphoneos-arm.deb
+Size: 3354
+MD5sum: 0ee5e5602ee24b188237227919fbfcce
+SHA1: 11bc547594912ac6c0fec077344c225bd0ad3595
+SHA256: 9bcffcbe1b1225bf4ad39de0d9efa6404709b15fd8ab99311b3dbd0dee93c8d8
+Section: Tweaks
+Description: Slide-in animation for table list cells on iOS 6
+Author: redSBA team & Claude Haiku 5.5
+Name: Cool animation list
+
+Package: com.example.redsbabrowser
+Version: 0.8.0
+Architecture: iphoneos-arm
+Maintainer: you
+Installed-Size: 200
+Filename: ./com.example.redsbabrowser_0.8.0_iphoneos-arm.deb
+Size: 99490
+MD5sum: 2295226f8bf97c841df1dbc8e8ed684f
+SHA1: 888ebeed1353173281c46253aa07556a3ca4da9f
+SHA256: 0a537ceb00ac452c2eb63a37045aa82d9eaf67926f535c26d324b0e652f14591
+Section: Applications
+Description: Simple browser for iOS 6 with certificate warnings
+Author: you
+Name: redSBA browser
+
 Package: com.example.redsbabrowser
 Version: 0.9.0
 Architecture: iphoneos-arm
