@@ -30,6 +30,22 @@ Description: Slide-in animation for table list cells on iOS 6
 Author: redSBA team & Claude Haiku 5.5
 Name: Cool animation list
 
+Package: com.example.iosegg
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: redSBA team
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./com.example.iosegg_0.1.0_iphoneos-arm.deb
+Size: 187400
+MD5sum: 726441506f6e5d5e3128b859f96cf444
+SHA1: ee22b6de69e1d75f4d366917f554191dfb33dd7e
+SHA256: a2b51cc55e2aebef3d8e4b3a2f3af1dc0a52e73dd84b6463d142d4f8c0ac7bfa
+Section: Tweaks
+Description: Tap the iOS version 10 times in Settings to show a picture for 5 seconds
+Author: redSBA team & Claude Haiku 5.5
+Name: iOS easter egg
+
 Package: com.example.redsbabrowser
 Version: 0.8.0
 Architecture: iphoneos-arm
